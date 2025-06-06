@@ -31,7 +31,7 @@ A modern, feature-rich to-do list application for Android that helps you organiz
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ToDoListApp.git
+   git clone https://github.com/samyak2403/ToDoListApp.git
    ```
 
 2. Open the project in Android Studio:
